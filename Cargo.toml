@@ -1,0 +1,8 @@
+[package]
+name = "data_structures"
+version = "0.0.1"
+authors = ["Jacob Mitchell <jacob.d.mitchell@gmail.com>"]
+
+[dependencies]
+quickcheck = "0.2.3"
+quickcheck_macros = "0.2.3"
